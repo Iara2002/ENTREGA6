@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Zapatillas",
+      "description": "Zapatillas deportivas",
+      "price": 123000,
+      "thumbnail": "imagen1.jpg",
+      "code": "ZAP001",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Camiseta",
+      "description": "Camiseta de algodón",
+      "price": 2300,
+      "thumbnail": "imagen2.jpg",
+      "code": "CAM002",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "title": "Pantalón",
+      "description": "Pantalón azul",
+      "price": 6599,
+      "thumbnail": "imagen3.jpg",
+      "code": "PAN003",
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "title": "remera",
+      "description": "remera azul",
+      "price": 46999,
+      "thumbnail": "imagen5.jpg",
+      "code": "REM006",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "title": "Pollera",
+      "description": "Pollera rosa",
+      "price": 16009,
+      "thumbnail": "imagen7.jpg",
+      "code": "POLL003",
+      "stock": 5
+    }
+  ]
+  
